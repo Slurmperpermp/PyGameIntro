@@ -6,7 +6,7 @@
         {
             "label": "script.py",
             "type": "shell",
-            "command": "python script.py",
+            "command": "python Game.py",
             "group": {
                 "kind": "build",
                 "isDefault": true
